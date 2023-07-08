@@ -1,0 +1,10 @@
+public class Main{
+piblic static void main(String[] args){
+
+System.out.println("Mera bharath Mahan");
+
+
+System.out.println("Mera bharath Mahan");
+
+}
+}
